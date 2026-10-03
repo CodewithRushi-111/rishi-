@@ -1,0 +1,9 @@
+{
+  "name": "rushikesh-portfolio-landing-root",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix rushikesh-portfolio-landing run dev",
+    "build": "npm --prefix rushikesh-portfolio-landing run build",
+    "preview": "npm --prefix rushikesh-portfolio-landing run preview"
+  }
+}
